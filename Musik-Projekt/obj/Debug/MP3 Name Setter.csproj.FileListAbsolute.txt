@@ -1,0 +1,84 @@
+D:\VisualStudio-Datas\Musik-Projekt\Musik-Projekt\bin\Debug\MP3 Name Setter.exe.config
+D:\VisualStudio-Datas\Musik-Projekt\Musik-Projekt\bin\Debug\MP3 Name Setter.exe.manifest
+D:\VisualStudio-Datas\Musik-Projekt\Musik-Projekt\bin\Debug\MP3 Name Setter.application
+D:\VisualStudio-Datas\Musik-Projekt\Musik-Projekt\bin\Debug\MP3 Name Setter.exe
+D:\VisualStudio-Datas\Musik-Projekt\Musik-Projekt\bin\Debug\MP3 Name Setter.pdb
+D:\VisualStudio-Datas\Musik-Projekt\Musik-Projekt\bin\Debug\Id3.dll
+D:\VisualStudio-Datas\Musik-Projekt\Musik-Projekt\bin\Debug\Id3.Files.dll
+D:\VisualStudio-Datas\Musik-Projekt\Musik-Projekt\bin\Debug\Id3.WinForms.dll
+D:\VisualStudio-Datas\Musik-Projekt\Musik-Projekt\bin\Debug\Id3.pdb
+D:\VisualStudio-Datas\Musik-Projekt\Musik-Projekt\bin\Debug\Id3.Files.pdb
+D:\VisualStudio-Datas\Musik-Projekt\Musik-Projekt\bin\Debug\Id3.WinForms.pdb
+D:\VisualStudio-Datas\Musik-Projekt\Musik-Projekt\obj\Debug\Musik_Projekt.AnleitungsForm.resources
+D:\VisualStudio-Datas\Musik-Projekt\Musik-Projekt\obj\Debug\Musik_Projekt.ErsteForm.resources
+D:\VisualStudio-Datas\Musik-Projekt\Musik-Projekt\obj\Debug\Musik_Projekt.Properties.Resources.resources
+D:\VisualStudio-Datas\Musik-Projekt\Musik-Projekt\obj\Debug\Musik_Projekt.versionsinfoForm.resources
+D:\VisualStudio-Datas\Musik-Projekt\Musik-Projekt\obj\Debug\MP3 Name Setter.csproj.GenerateResource.Cache
+D:\VisualStudio-Datas\Musik-Projekt\Musik-Projekt\obj\Debug\MP3 Name Setter.TrustInfo.xml
+D:\VisualStudio-Datas\Musik-Projekt\Musik-Projekt\obj\Debug\MP3 Name Setter.exe.manifest
+D:\VisualStudio-Datas\Musik-Projekt\Musik-Projekt\obj\Debug\MP3 Name Setter.application
+D:\VisualStudio-Datas\Musik-Projekt\Musik-Projekt\obj\Debug\MP3 Name Setter.exe
+D:\VisualStudio-Datas\Musik-Projekt\Musik-Projekt\obj\Debug\MP3 Name Setter.pdb
+D:\VisualStudio-Datas\Musik-Projekt\Musik-Projekt\bin\Debug\logo2-small.ico
+D:\VisualStudio-Datas\Musik-Projekt\Musik-Projekt\obj\Debug\MP3 Name Setter.csprojResolveAssemblyReference.cache
+D:\VisualStudio-Datas\mp3-name-setter\Musik-Projekt\bin\Debug\MP3 Name Setter.exe.config
+D:\VisualStudio-Datas\mp3-name-setter\Musik-Projekt\obj\Debug\MP3 Name Setter.exe
+D:\VisualStudio-Datas\mp3-name-setter\Musik-Projekt\obj\Debug\MP3 Name Setter.pdb
+D:\VisualStudio-Datas\mp3-name-setter\Musik-Projekt\bin\Debug\logo2-small.ico
+D:\VisualStudio-Datas\mp3-name-setter\Musik-Projekt\bin\Debug\MP3 Name Setter.exe.manifest
+D:\VisualStudio-Datas\mp3-name-setter\Musik-Projekt\bin\Debug\MP3 Name Setter.application
+D:\VisualStudio-Datas\mp3-name-setter\Musik-Projekt\bin\Debug\MP3 Name Setter.exe
+D:\VisualStudio-Datas\mp3-name-setter\Musik-Projekt\bin\Debug\MP3 Name Setter.pdb
+D:\VisualStudio-Datas\mp3-name-setter\Musik-Projekt\bin\Debug\Id3.pdb
+D:\VisualStudio-Datas\mp3-name-setter\Musik-Projekt\bin\Debug\Id3.Files.pdb
+D:\VisualStudio-Datas\mp3-name-setter\Musik-Projekt\bin\Debug\Id3.WinForms.pdb
+D:\VisualStudio-Datas\mp3-name-setter\Musik-Projekt\obj\Debug\MP3 Name Setter.csprojResolveAssemblyReference.cache
+D:\VisualStudio-Datas\mp3-name-setter\Musik-Projekt\obj\Debug\Musik_Projekt.AnleitungsForm.resources
+D:\VisualStudio-Datas\mp3-name-setter\Musik-Projekt\obj\Debug\Musik_Projekt.ErsteForm.resources
+D:\VisualStudio-Datas\mp3-name-setter\Musik-Projekt\obj\Debug\Musik_Projekt.Properties.Resources.resources
+D:\VisualStudio-Datas\mp3-name-setter\Musik-Projekt\obj\Debug\Musik_Projekt.versionsinfoForm.resources
+D:\VisualStudio-Datas\mp3-name-setter\Musik-Projekt\obj\Debug\MP3 Name Setter.csproj.GenerateResource.Cache
+D:\VisualStudio-Datas\mp3-name-setter\Musik-Projekt\obj\Debug\MP3 Name Setter.TrustInfo.xml
+D:\VisualStudio-Datas\mp3-name-setter\Musik-Projekt\obj\Debug\MP3 Name Setter.exe.manifest
+D:\VisualStudio-Datas\mp3-name-setter\Musik-Projekt\obj\Debug\MP3 Name Setter.application
+D:\VisualStudio-Datas\mp3-name-setter\Musik-Projekt\bin\Debug\MetroFramework.dll
+D:\VisualStudio-Datas\mp3-name-setter\Musik-Projekt\bin\Debug\MetroFramework.Fonts.dll
+D:\VisualStudio-Datas\mp3-name-setter _metro\Musik-Projekt\bin\Debug\MP3 Name Setter.exe.config
+D:\VisualStudio-Datas\mp3-name-setter _metro\Musik-Projekt\obj\Debug\MP3 Name Setter.exe
+D:\VisualStudio-Datas\mp3-name-setter _metro\Musik-Projekt\obj\Debug\MP3 Name Setter.pdb
+D:\VisualStudio-Datas\mp3-name-setter _metro\Musik-Projekt\bin\Debug\logo2-small.ico
+D:\VisualStudio-Datas\mp3-name-setter _metro\Musik-Projekt\bin\Debug\MP3 Name Setter.exe.manifest
+D:\VisualStudio-Datas\mp3-name-setter _metro\Musik-Projekt\bin\Debug\MP3 Name Setter.application
+D:\VisualStudio-Datas\mp3-name-setter _metro\Musik-Projekt\bin\Debug\MP3 Name Setter.exe
+D:\VisualStudio-Datas\mp3-name-setter _metro\Musik-Projekt\bin\Debug\MP3 Name Setter.pdb
+D:\VisualStudio-Datas\mp3-name-setter _metro\Musik-Projekt\bin\Debug\MetroFramework.dll
+D:\VisualStudio-Datas\mp3-name-setter _metro\Musik-Projekt\bin\Debug\MetroFramework.Fonts.dll
+D:\VisualStudio-Datas\mp3-name-setter _metro\Musik-Projekt\bin\Debug\Id3.pdb
+D:\VisualStudio-Datas\mp3-name-setter _metro\Musik-Projekt\bin\Debug\Id3.Files.pdb
+D:\VisualStudio-Datas\mp3-name-setter _metro\Musik-Projekt\bin\Debug\Id3.WinForms.pdb
+D:\VisualStudio-Datas\mp3-name-setter _metro\Musik-Projekt\obj\Debug\MP3 Name Setter.csprojResolveAssemblyReference.cache
+D:\VisualStudio-Datas\mp3-name-setter _metro\Musik-Projekt\obj\Debug\Musik_Projekt.ErsteForm.resources
+D:\VisualStudio-Datas\mp3-name-setter _metro\Musik-Projekt\obj\Debug\Musik_Projekt.Properties.Resources.resources
+D:\VisualStudio-Datas\mp3-name-setter _metro\Musik-Projekt\obj\Debug\MP3 Name Setter.csproj.GenerateResource.Cache
+D:\VisualStudio-Datas\mp3-name-setter _metro\Musik-Projekt\obj\Debug\MP3 Name Setter.TrustInfo.xml
+D:\VisualStudio-Datas\mp3-name-setter _metro\Musik-Projekt\obj\Debug\MP3 Name Setter.exe.manifest
+D:\VisualStudio-Datas\mp3-name-setter _metro\Musik-Projekt\obj\Debug\MP3 Name Setter.application
+D:\VisualStudio-Datas\mp3-name-setter _v2\Musik-Projekt\obj\Debug\MP3 Name Setter.csprojResolveAssemblyReference.cache
+D:\VisualStudio-Datas\mp3-name-setter _v2\Musik-Projekt\obj\Debug\Musik_Projekt.ErsteForm.resources
+D:\VisualStudio-Datas\mp3-name-setter _v2\Musik-Projekt\obj\Debug\Musik_Projekt.Properties.Resources.resources
+D:\VisualStudio-Datas\mp3-name-setter _v2\Musik-Projekt\obj\Debug\MP3 Name Setter.csproj.GenerateResource.Cache
+D:\VisualStudio-Datas\mp3-name-setter _v2\Musik-Projekt\obj\Debug\MP3 Name Setter.TrustInfo.xml
+D:\VisualStudio-Datas\mp3-name-setter _v2\Musik-Projekt\obj\Debug\MP3 Name Setter.exe.manifest
+D:\VisualStudio-Datas\mp3-name-setter _v2\Musik-Projekt\obj\Debug\MP3 Name Setter.exe
+D:\VisualStudio-Datas\mp3-name-setter _v2\Musik-Projekt\obj\Debug\MP3 Name Setter.pdb
+D:\VisualStudio-Datas\mp3-name-setter _v2\Musik-Projekt\bin\Debug\MP3 Name Setter.exe.config
+D:\VisualStudio-Datas\mp3-name-setter _v2\Musik-Projekt\bin\Debug\MP3 Name Setter.exe.manifest
+D:\VisualStudio-Datas\mp3-name-setter _v2\Musik-Projekt\bin\Debug\MP3 Name Setter.application
+D:\VisualStudio-Datas\mp3-name-setter _v2\Musik-Projekt\bin\Debug\MP3 Name Setter.exe
+D:\VisualStudio-Datas\mp3-name-setter _v2\Musik-Projekt\bin\Debug\MP3 Name Setter.pdb
+D:\VisualStudio-Datas\mp3-name-setter _v2\Musik-Projekt\bin\Debug\MetroFramework.dll
+D:\VisualStudio-Datas\mp3-name-setter _v2\Musik-Projekt\bin\Debug\MetroFramework.Fonts.dll
+D:\VisualStudio-Datas\mp3-name-setter _v2\Musik-Projekt\bin\Debug\Id3.pdb
+D:\VisualStudio-Datas\mp3-name-setter _v2\Musik-Projekt\bin\Debug\Id3.Files.pdb
+D:\VisualStudio-Datas\mp3-name-setter _v2\Musik-Projekt\bin\Debug\Id3.WinForms.pdb
+D:\VisualStudio-Datas\mp3-name-setter _v2\Musik-Projekt\obj\Debug\MP3 Name Setter.application
